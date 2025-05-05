@@ -1,0 +1,7 @@
+streamlit==1.34.0
+faiss-cpu==1.7.4
+sentence-transformers==2.6.1
+numpy==1.24.4
+requests==2.31.0
+google-generativeai==0.4.1
+protobuf==4.25.3
